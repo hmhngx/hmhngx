@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![Uploading AlejandroGarnachoSiuuuGIF.gif…]()
 
 ---
 
@@ -10,6 +8,7 @@
 - 👂 My name is **Harrison Nguyen**
 - 🧑‍🎓 I'm an incoming junior majoring in Computer Science & Mathematics at Dickinson College
 - 🔭 I’m interested in **Full-stack Web Development**
+- 📩 Feel free to reach me at **nhminhhung05@gmail.com**
 
 ---
 
