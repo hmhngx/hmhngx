@@ -8,8 +8,8 @@
 * 🔭 I’m interested in SWE Roles
 
 * Technologies I have experience with
-<p align="center">
+[![My Skills]<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git, css, cypress, express, html, java, js, maven, mongodb, mysql, nestjs, nodejs, postgres, postman, py, react, redux, spring, supabase, sentry, threejs, ts, vercel, vite, vscode, vue, tailwind, r, nextjs, idea, angular" />
   </a>
-</p>
+</p>](https://skillicons.dev)
