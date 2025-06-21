@@ -11,6 +11,8 @@
 - 🧑‍🎓 I'm an incoming junior majoring in Computer Science & Mathematics at Dickinson College
 - 🔭 I’m interested in **Full-stack Web Development**
 - 📩 Feel free to reach me at **nhminhhung05@gmail.com**
+- 🧑‍💻 Check out my personal portfolio for projects and additional information: https://personal-portfolio-harrison-nguyens-projects.vercel.app/
+
 
 ---
 
