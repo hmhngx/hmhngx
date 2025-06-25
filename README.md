@@ -7,11 +7,11 @@
 ---
 
 ### 👋 About Me
-- 👂 My name is **Harrison Nguyen**
-- 🧑‍🎓 I'm an incoming junior majoring in Computer Science & Mathematics at Dickinson College
-- 🔭 I’m interested in **Full-stack Web Development**
-- 📩 Feel free to reach me at **nhminhhung05@gmail.com**
-- 🧑‍💻 Check out my personal portfolio for projects and additional information: https://personal-portfolio-harrison-nguyens-projects.vercel.app/
+- 👂 Name: Harrison Nguyen
+- 🧑‍🎓 Education: Incoming junior at Dickinson College, majoring in Computer Science and Mathematics
+- 🔭 Interests: Full-stack web development and building scalable, user-focused applications
+- 📩 Contact: nhminhhung05@gmail.com
+- 🧑‍💻 Portfolio: Visit my portfolio to explore my projects and learn more about my work: https://personal-portfolio-harrison-nguyens-projects.vercel.app/
 
 
 ---
