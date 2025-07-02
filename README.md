@@ -1,37 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Harrison Nguyen
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/arli6aysobkAAAAd/alejandro-garnacho-garnacho.gif" alt="Alejandro Garnacho SIUUU" />
-</p>
-
----
-
-### 👋 About Me
-- 👂 **Name**: Harrison Nguyen
-- 🧑‍🎓 **Education**: Incoming junior at Dickinson College, majoring in Computer Science and Mathematics
-- 🔭 **Interests**: Full-stack web development and building scalable, user-focused applications
-- 📩 **Contact**: nhminhhung05@gmail.com
-- 🧑‍💻 **Works**: Visit my portfolio to explore my projects and learn more about my work: https://personal-portfolio-harrison-nguyens-projects.vercel.app/
-
+### 📌 About Me  
+- 🎓 **Education**: Junior at Dickinson College, majoring in **Computer Science and Mathematics**  
+- 💻 **Interests**: Full-stack web development, building scalable systems, and creating user-centered digital experiences  
+- 📫 **Email**: nhminhhung05@gmail.com  
+- 🌐 **Portfolio**: [Visit my personal website](https://personal-portfolio-harrison-nguyens-projects.vercel.app/) to explore my projects and experience  
 
 ---
 
-### 🛠️ Technologies I have experience with
+### 🛠️ Technical Skills  
+I’ve gained hands-on experience with a wide range of technologies:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,cypress,express,html,java,js,maven,mongodb,mysql,nestjs,nodejs,postgres,postman,py,react,redux,spring,supabase,sentry,threejs,ts,vercel,vite,vscode,vue,tailwind,r,nextjs,idea,angular,docker" alt="My Skills" />
-  </a>
-</p>
+![Technologies](https://skillicons.dev/icons?i=git,css,cypress,express,html,java,js,maven,mongodb,mysql,nestjs,nodejs,postgres,postman,py,react,redux,spring,supabase,sentry,threejs,ts,vercel,vite,vscode,vue,tailwind,r,nextjs,idea,angular,docker)
 
 ---
 
-### 🤝 Let’s Connect
+### 🤝 Let’s Connect  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hmh-nguyen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmh-nguyen/)
