@@ -11,7 +11,7 @@
 ### 🛠️ Technical Skills  
 I’ve gained hands-on experience with a wide range of technologies:
 
-![Technologies](https://skillicons.dev/icons?i=git,css,cypress,express,html,java,js,maven,mongodb,mysql,nestjs,nodejs,postgres,postman,py,react,redux,spring,supabase,sentry,threejs,ts,vercel,vite,vscode,vue,tailwind,r,nextjs,idea,angular,docker)
+![Technologies](https://skillicons.dev/icons?i=git,css,cypress,express,html,java,js,maven,mongodb,mysql,nestjs,nodejs,postgres,postman,py,react,redux,spring,supabase,sentry,threejs,ts,vercel,vite,vscode,vue,tailwind,r,nextjs,idea,angular,docker,vscode)
 
 ---
 
