@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Harrison Nguyen
 
 ### 📌 About Me  
-- 🎓 **Education**: Junior at Dickinson College, majoring in **Computer Science and Mathematics**  
+- 🎓 **Education**: Rising Senior at Dickinson College, majoring in **Computer Science and Mathematics**  
 - 💻 **Interests**: Full-stack web development, building scalable systems, and creating user-centered digital experiences  
 - 📫 **Email**: nhminhhung05@gmail.com  
 - 🌐 **Portfolio**: [Visit my personal website](https://personal-portfolio-harrison-nguyens-projects.vercel.app/) to explore my projects and experience  
