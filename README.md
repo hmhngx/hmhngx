@@ -4,7 +4,8 @@
 - 🎓 **Education**: Rising Senior at Dickinson College, majoring in **Computer Science and Mathematics**  
 - 💻 **Interests**: Full-stack web development, building scalable systems, and creating user-centered digital experiences  
 - 📫 **Email**: nhminhhung05@gmail.com  
-- 🌐 **Portfolio**: [Visit my personal website](https://personal-portfolio-harrison-nguyens-projects.vercel.app/) to explore my projects and experience  
+- 🌐 **Portfolio**: [Visit my personal website](https://personal-portfolio-harrison-nguyens-projects.vercel.app/) to explore my projects and experience
+- 😎 **Hobbies**: Soccer, Basketball, Watching T1 LOL  
 
 ---
 
