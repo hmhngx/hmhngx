@@ -1,21 +1,51 @@
 ## 👋 Hi, I'm Harrison Nguyen
 
-### 📌 About Me  
-- 🎓 **Education**: Rising Senior at Dickinson College, majoring in **Computer Science and Mathematics**  
-- 💻 **Interests**: Full-stack web development, building scalable systems, and creating user-centered digital experiences  
-- 📫 **Email**: nhminhhung05@gmail.com  
-- 🌐 **Portfolio**: [Visit my personal website](https://personal-portfolio-harrison-nguyens-projects.vercel.app/) to explore my projects and experience
-- 😎 **Hobbies**: Soccer, Basketball, Watching T1 LOL  
+![Profile Views](https://komarev.com/ghpvc/?username=harrison-nguyen&color=0e75b6&style=flat&label=Profile+Views) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmh-nguyen/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-harrison-nguyens-projects.vercel.app/)
+
+### 📌 About Me
+- 🎓 **Rising Senior** at **Dickinson College** — B.S. in **Computer Science & Mathematics**
+- 💡 Passionate about **full-stack development**, **scalable systems**, **distributed architectures**, and **AI-powered applications**.
+- 😎 **Hobbies**: Soccer, Basketball, Watching T1 (League of Legends)
 
 ---
 
-### 🛠️ Technical Skills  
-I’ve gained hands-on experience with a wide range of technologies:
+### 🛠️ Technical Skills
 
-![Technologies](https://skillicons.dev/icons?i=git,css,cypress,express,html,java,js,maven,mongodb,mysql,nestjs,nodejs,postgres,postman,py,react,redux,spring,supabase,sentry,threejs,ts,vercel,vite,vscode,vue,tailwind,r,nextjs,idea,angular,docker,firebase)
+**Languages**  
+![Python](https://skillicons.dev/icons?i=python) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![Rust](https://skillicons.dev/icons?i=rust) ![SQL](https://skillicons.dev/icons?i=postgres,mysql)
+
+**Backend**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![NestJS](https://skillicons.dev/icons?i=nestjs) ![Express](https://skillicons.dev/icons?i=express) ![Spring Boot](https://skillicons.dev/icons?i=spring) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Python](https://skillicons.dev/icons?i=python)
+
+**Frontend**  
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+**Databases & Cloud**  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Azure](https://skillicons.dev/icons?i=azure)
+
+**Tools**  
+![LangChain](https://skillicons.dev/icons?i=langchain) ![OpenAI](https://skillicons.dev/icons?i=openai) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
-### 🤝 Let’s Connect  
+### 💼 Experience Highlights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmh-nguyen/)
+**Software Engineer Intern** @ VNPT SI *(May – Aug 2026)*  
+
+**Software Engineer Intern** @ Open Energy Dashboard *(Sep – Dec 2025)*  
+
+**Software Engineer Intern** @ FPT Software *(May – Aug 2025)*  
+
+**Software Engineer Intern** @ MSB Bank *(Jun – Aug 2024)*  
+
+---
+
+### 🤝 Let’s Connect
+- 📧 **Email**: nhminhhung05@gmail.com
+- 🔗 **LinkedIn**: [linkedin.com/in/hmh-nguyen](https://www.linkedin.com/in/hmh-nguyen/)
+- 🌐 **Portfolio**: [personal-portfolio...vercel.app](https://personal-portfolio-harrison-nguyens-projects.vercel.app/)
+- 📁 Check out my **GitHub repositories** for more projects!
+
+---
+
+*Always eager to collaborate on interesting projects — feel free to reach out!*
