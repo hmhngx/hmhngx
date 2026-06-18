@@ -21,10 +21,10 @@
 ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 **Databases & Cloud**  
-![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Azure](https://skillicons.dev/icons?i=azure)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![AWS](https://skillicons.dev/icons?i=aws)![Azure](https://skillicons.dev/icons?i=azure)![Supabase](https://skillicons.dev/icons?i=supabase)
 
 **Tools**  
-![LangChain](https://skillicons.dev/icons?i=langchain) ![OpenAI](https://skillicons.dev/icons?i=openai) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
